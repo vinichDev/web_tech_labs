@@ -1,0 +1,21 @@
+:root {
+
+    --header-height: 80px;
+    --footer-height: 80px;
+
+
+    --content-max-width: 1200px;
+
+
+    --ident-s: 10px;
+    --ident-m: 20px;
+    --ident-l: 40px;
+
+
+    --text-m: 16px;
+    --text-l: 20px;
+    --text-xl: 24px;
+    --text-xxl: 28px;
+    --text-section-title: 32px;
+    --text-title: 40px;
+}
